@@ -59,3 +59,4 @@ do
     echo "Checking checksums"
     (cd ${TARGET_FOLDER}"/${MODEL_PATH}" && md5sum -c checklist.chk)
 done
+/content# bash download.sh
